@@ -1,18 +1,1 @@
-# 💫 About Me:
-# 👋 Hi, I'm Vinayak Gawde<br><br>🎓 **Computer Engineering Graduate | Software & Data Enthusiast | Developer**<br><br>I’m a Computer Engineering graduate passionate about building practical software solutions and learning new technologies. I enjoy working on **web development, data analytics, backend development, and AI/ML projects**.<br><br>💻 **Technical Skills**<br>- **Languages:** Java, Python, C, C++, JavaScript, SQL<br>- **Frontend:** HTML, CSS, React.js, Next.js, Bootstrap<br>- **Backend:** Node.js, Spring Boot, REST APIs<br>- **Databases:** MySQL, PostgreSQL, Supabase<br>- **Tools:** Git, GitHub, Docker, Postman, Vercel<br>- **Data & ML:** Pandas, NumPy, Scikit-learn, Data Analysis, Machine Learning<br><br>🚀 **Projects**<br>- 🔐 **Criminal Record Tracking System** – Role-based crime management and tracking platform<br>- 🤖 **Spot-Light Webinar Platform** – AI-powered webinar SaaS platform<br>- 📊 **Journal App with Analytics** – Web application with data visualization and analytics<br>- 💬 **Student Q&A Forum** – Platform for students to ask and share knowledge<br><br>🌱 Currently improving my skills in **Data Analytics, Python, SQL, Machine Learning, and Software Development**.<br><br>💡 I believe in learning by building, solving real-world problems, and continuously improving my technical skills.<br><br>📫 **Let’s connect and build something useful together!**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_vinayakg45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinayak Gawde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayakgawde52@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vinayak-45&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Vinayak-45&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vinayak-45&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Vinayak-45&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
